@@ -4,3 +4,17 @@ langchain-openai
 langchain-groq
 python-dotenv
 langchain-google-genai
+ai_core_sdk
+pydantic
+openai
+google-cloud-aiplatform      # Google
+boto3                      # Amazon
+
+langgraph
+
+
+langchain-google-vertexai
+langchain-google-community
+langchain-aws
+python-dotenv
+generative-ai-hub-sdk
